@@ -7,4 +7,5 @@
     * gradient -- compute gradient
     * logisticRegression -- optimize logistic regression function using scipy built-in module
 * plotDecisionBoundary -- visualize data and the decision boundary
+* predict.py -- make predictions using theta and X
 * ex1data1.txt -- the data been used
